@@ -1,6 +1,6 @@
-export const PROJECT_ID = 'farcaster-frames-template';
-export const PROJECT_TITLE = "Socks Quiz Frame";
-export const PROJECT_DESCRIPTION = "Test your knowledge about Maschine's frame capabilities!";
+export const PROJECT_ID = 'SocksQuizFrame';
+export const PROJECT_TITLE = "SocksQuizFrame";
+export const PROJECT_DESCRIPTION = "Test your sock knowledge and earn rewards through interactive Farcaster frames!";
 
 export const QUIZ_QUESTIONS = [
   {
